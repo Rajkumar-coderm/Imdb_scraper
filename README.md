@@ -1,6 +1,6 @@
 # Imdb_scraper
  
- in this project i can use Beautifulsoup and json Then in this project i am learng about scraping how tob scrap data any website then in this project i will lern about all new things.
+ <h4>in this project i can use Beautifulsoup and json Then in this project i am learng about scraping how tob scrap data any website then in this project i will lern about all new things.</h4>
  
  
  #PAKAGE IN PYTHON<br>
